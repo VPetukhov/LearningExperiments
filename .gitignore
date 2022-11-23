@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+.history
+*.pkl
+data
+.idea
+*.so
+__pycache__
+output
+*.html
+*.pickle
+*.pkl
+*.bin
+*.gz
+venv/
+file_system_store/
