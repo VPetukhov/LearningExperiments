@@ -13,3 +13,4 @@ output
 *.gz
 venv/
 file_system_store/
+cache
